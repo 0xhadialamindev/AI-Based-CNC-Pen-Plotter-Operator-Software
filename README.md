@@ -1,6 +1,7 @@
 # AI-Based-CNC-Pen-Plotter-Operator-Software
 
 *A Computer Vision & Mechatronics Integration Project*
+![AI CNC Plotter Presentation](Presantation/ai-cnc-plotter-v2_page-0001.jpg)
 
 ## 📋 Overview
 
