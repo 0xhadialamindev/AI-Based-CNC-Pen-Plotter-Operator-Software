@@ -1,7 +1,6 @@
 # AI-Based-CNC-Pen-Plotter-Operator-Software
 
 *A Computer Vision & Mechatronics Integration Project*
-![Test Photo](test%20photo/01_original.jpg)
 
 ## 📋 Overview
 
