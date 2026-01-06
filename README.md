@@ -1,6 +1,8 @@
 # AI-Based-CNC-Pen-Plotter-Operator-Software
 
 *A Computer Vision & Mechatronics Integration Project*
+(test photo/01_original.jpg)
+
 ## 📋 Overview
 
 This project implements a complete AI-driven pipeline for automatically capturing portrait images, processing them through computer vision algorithms, generating optimized G-code, and executing precise pen plots on a mini CNC machine. The system features real-time motor position verification to ensure physical completion before reporting success, addressing common issues with traditional command-acknowledgment-based workflows.
