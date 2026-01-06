@@ -19,6 +19,14 @@ This project implements a complete AI-driven pipeline for automatically capturin
 - **🛡️ Error Recovery**: Handles servo delays, voltage sag, and communication timeouts gracefully
 - **🔧 Test Pattern Support**: Built-in square and circle generation for hardware calibration
 
+<p align="center">
+  <img src="test photo/01_original.jpg" width="18%">
+  <img src="test photo/02_sharpened.jpg" width="18%">
+  <img src="test photo/03_segmented.jpg" width="18%">
+  <img src="test photo/04_mask.jpg" width="18%">
+  <img src="test photo/05_sketch.jpg" width="18%">
+</p>
+
 ## 🛠️ Hardware Requirements
 
 | Component | Model | Specification |
@@ -207,19 +215,6 @@ COM_PORT = "COM4"
 - **Solution**: In `final3.py`, modify `SketchGenerator` parameters: increase `canny_low` for fewer lines, decrease for more detail.
 
 ---
-
-## 📸 Adding Images to README
-
-Place images in the `figures/` directory and reference them:
-
-```markdown
-![Wiring Diagram](figures/wiring.jpg)
-![UI Screenshot](figures/ui.png)
-![Test Print](figures/print.jpg)
-```
-
----
-
 ## 🤝 Contributing
 
 This is a research project. For issues or improvements:
@@ -234,20 +229,6 @@ This is a research project. For issues or improvements:
 ## 📄 License
 
 This project is released under the MIT License. See `LICENSE` file for details.
-
----
-
-## 🎓 Citation
-
-If you use this project in academic work, please cite:
-```bibtex
-@misc{ai_cnc_plotter_2025,
-  title={AI-Based CNC Pen Plotter Operator},
-  author={Al-Amin, Md. Hadi},
-  year={2025},
-  howpublished={\url{https://github.com/yourusername/ai-cnc-plotter}}
-}
-```
 
 ---
 
